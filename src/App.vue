@@ -18,6 +18,7 @@
     <v-content>
       <HelloWorld/>
     </v-content>
+    <router-view></router-view>
   </v-app>
 </template>
 
